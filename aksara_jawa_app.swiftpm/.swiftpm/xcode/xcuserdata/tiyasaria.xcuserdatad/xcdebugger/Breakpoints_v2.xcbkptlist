@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "45F61559-92DF-4277-B897-0729500466AB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2F2ED78D-50BD-42F9-B1B2-709CA0AB4FDD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlaySound.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "playSound(key:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2F2ED78D-50BD-42F9-B1B2-709CA0AB4FDD - 4f27f2ac81ded6cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aksara_jawa_app.SoundManager.playSound(key: Swift.String) -&gt; ()"
+                  moduleName = "aksara_jawa_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tiyasaria/Documents/Code/aksara_jawa_app.swiftpm/PlaySound.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "288">
+               </Location>
+               <Location
+                  uuid = "2F2ED78D-50BD-42F9-B1B2-709CA0AB4FDD - 4f27f2ac81ded6cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aksara_jawa_app.SoundManager.playSound(key: Swift.String) -&gt; ()"
+                  moduleName = "aksara_jawa_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tiyasaria/Documents/Code/aksara_jawa_app.swiftpm/PlaySound.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "992">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E53E6159-47E6-4CB8-A004-9BDB925171A1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlaySound.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "playSound(key:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E53E6159-47E6-4CB8-A004-9BDB925171A1 - 4f27f2ac81ded9d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aksara_jawa_app.SoundManager.playSound(key: Swift.String) -&gt; ()"
+                  moduleName = "aksara_jawa_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tiyasaria/Documents/Code/aksara_jawa_app.swiftpm/PlaySound.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "944">
+               </Location>
+               <Location
+                  uuid = "E53E6159-47E6-4CB8-A004-9BDB925171A1 - 4f27f2ac81ded9d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aksara_jawa_app.SoundManager.playSound(key: Swift.String) -&gt; ()"
+                  moduleName = "aksara_jawa_app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tiyasaria/Documents/Code/aksara_jawa_app.swiftpm/PlaySound.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "1772">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "593F5DB3-0EE9-4CE1-9EF1-0B87D7E647B5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlaySound.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "playSound(key:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD6BEA7C-CE57-488C-BC2D-5B2B34F2D1F2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PlaySound.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "playSound(key:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
